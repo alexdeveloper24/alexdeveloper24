@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a href="https://github.com/bigmat18"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bigmat18&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Bigmat18's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigmat18&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/bigmat18"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexdeveloper24&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Alessandro Chirici's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexdeveloper24&layout=compact&theme=buefy&hide_border=true" /></a>
 
 <!--
 **alexdeveloper24/alexdeveloper24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
